@@ -1,10 +1,24 @@
 # Hackintosh-v1
-Hackintosh 
-MacOS Ventura 
-Dell XPS 13 9370 
-Opencore 0.9.4
-CPU: i7-u8550 
-AUDIO: ALC 299 
-iGPU: UHD 620
-inbuilt Wifi not working
-WIFI Dongle: Dlink DWA-131E
+macOS Ventura  
+Dell XPS 13 9370  
+Opencore 0.9.4  
+  
+CPU: i7-u8550  
+AUDIO: ALC 299   
+iGPU: UHD 620   
+Display: 3840 x 2160 Touchscreen
+WIFI Dongle: Dlink DWA-131E  
+
+### Whats working:
+iGPU  
+USB Ports  
+Audio  
+Trackpad  
+Touchscreen  
+Bluetooth  
+
+### Whats not working:
+
+Sleep if longer than 30 mins  
+inbuilt Wifi not working (model not supported)  
+Display Brightness Controls  
