@@ -6,7 +6,7 @@ Opencore 0.9.4
 CPU: i7-u8550  
 AUDIO: ALC 299   
 iGPU: UHD 620   
-Display: 3840 x 2160 Touchscreen
+Display: 3840 x 2160 Touchscreen  
 WIFI Dongle: Dlink DWA-131E  
 
 ### Whats working:
