@@ -19,6 +19,5 @@ Bluetooth
 
 ### Whats not working:
 
-Sleep if longer than 30 mins  
 inbuilt Wifi not working (model not supported)  
 Display Brightness Controls  
